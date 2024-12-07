@@ -1,2 +1,2 @@
-# Ingreso_datos
-App para android basica de ingreso de datos desarrollado con React Native
+# Ingreso_date
+Basic data entry Android app developed with React Native
